@@ -7,6 +7,7 @@
 	   make-ik1303
 	   make-ik1306
 	   irx
+	   make-irx
 	   print-indicator
 	   make-calc
 	   ))
