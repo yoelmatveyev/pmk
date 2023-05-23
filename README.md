@@ -1,7 +1,7 @@
 # pmk
 Emulator or Soviet programmable calculators and related virtual devices
 
-This package emulates the calculators MK-61, B3-34 and virtual ones based on the same microcontrollers. Pressing keys is emulated by entering their internal coordinates. Run more steps, if your key input doesn't work.
+This package emulates the calculators MK-61, B3-34 and virtual ones based on the same microcontrollers. In this preliminary basic version, pressing keys is emulated by entering their internal coordinates. Run more steps, if your key input doesn't work.
 
 There is no graphic interface yet. Here is an example of a session hacking undocumented features of the calculator:
 
