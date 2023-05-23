@@ -5,9 +5,9 @@ This package emulates the calculators MK-61, B3-34 and virtual ones based on the
 
 There is no graphic interface yet. Here is an example of a session hacking undocumented features of the calculator:
 
-CL-USER\> (asdf:load-system "pmk")\n
-T
-CL-USER\> (defparameter mk61 (cl-pmk:make-calc))\n
+CL-USER> (asdf:load-system "pmk")<br />
+T<br />
+CL-USER> (defparameter mk61 (cl-pmk:make-calc))
 MK61
 CL-USER> (funcall mk61 :verbon t) ; Turn on verbose output of all display changes
 T
