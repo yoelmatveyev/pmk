@@ -12,7 +12,7 @@ MK61<br />
 CL-USER> (funcall mk61 :verbon t) ; Turn on verbose output of all display changes<br />
 T<br />
 CL-USER> (funcall mk61 :press '(5 8)) (funcall mk61 :steps 5) ; Delete 0/0, wait for the error<br />
- <pre>| 0          \|<br />
+ <pre>| 0          |<br />
 | EГГ0Г      |<br />
 281474671632383<br />
 0<br />
